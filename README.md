@@ -7,6 +7,7 @@ its made in python tkinter
 
 # how to run
 download python
+
 run the teg.py
 
 as easy as that
